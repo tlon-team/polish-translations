@@ -4,13 +4,13 @@ key:                 Hilton2025PrzemyslowaHodowlaZwierzat
 
 ## Podsumowanie
 
-Historia pełna jest błędów moralnych — rzeczy, które kiedyś były powszechne, ale obecnie uważamy za ewidentnie niemoralne, na przykład: ofiary z ludzi, walki gladiatorów, publiczne egzekucje, polowania na czarownice i niewolnictwo.
+Historia pełna jest błędów moralnych — praktyk, które niegdyś były powszechne, a dziś uważamy za jednoznacznie niemoralne, na przykład: składanie ofiar z ludzi, walki gladiatorów, publiczne egzekucje, polowania na czarownice i niewolnictwo.
 
-Moim zdaniem istnieje jeden oczywisty kandydat do miana największego błędu moralnego, jaki obecnie popełnia ludzkość: przemysłowa hodowla zwierząt.
+Moim zdaniem istnieje jeden oczywisty kandydat do miana największego błędu moralnego, popełnianego obecnie przez ludzkość: przemysłowa hodowla zwierząt.
 
-Ogólny argument jest następujący:
+Zgrubny argument jest następujący:
 
-- Istnieją *biliony* zwierząt hodowlanych, co sprawia, że skala potencjalnego problemu jest tak ogromna, że trudno ją intuicyjnie ogarnąć.
+Liczba zwierząt hodowlanych sięga *bilionów*, co sprawia, że skala potencjalnego problemu jest tak ogromna, iż trudno ją intuicyjnie ogarnąć.
 - Zdecydowana większość (szacujemy, że 97,5%[^1]) zwierząt hodowlanych znajduje się w *hodowlach przemysłowych*. Warunki panujące w tych hodowlach są znacznie gorsze, niż większość ludzi zdaje sobie sprawę.
 - Nawet jeśli zwierzęta nie mają takiego samego znaczenia moralnego jak ludzie, istnieją przekonujące dowody na to, że są one świadome i odczuwają ból — w rezultacie złe warunki panujące w hodowlach przemysłowych prawdopodobnie powodują, że zwierzęta doświadczają ogromnego cierpienia.
 
